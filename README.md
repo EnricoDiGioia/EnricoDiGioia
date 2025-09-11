@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Enrico Di Gioia!
+# 👋 Hi, A little bit about me!
 
 🎓 **Student @ ESPM**  
-🚀 Data Science & Business Enthusiast  
+🚀 Data Science & Business Student  
 🎮 RPG Fan & Video Game Lover  
 🧠 Passionate about **Machine Learning** and *The Last of Us*
 
