@@ -35,7 +35,7 @@
 
 - [Machine-Learning](https://github.com/EnricoDiGioia/Machine-Learning): My playground for all things ML!
 - [AutoSimula](https://github.com/EnricoDiGioia/AutoSimula): simulations about car purchasing, just for fun (and science)!
-- [Machine-Learning-Group-Project](https://github.com/rafaarklu/Machine-Learning-Group-Project)): Collaborating on cool ML stuff with friends.
+- [Machine-Learning-Group-Project](https://github.com/rafaarklu/Machine-Learning-Group-Project): Collaborating on cool ML stuff with friends.
 
 ---
 
